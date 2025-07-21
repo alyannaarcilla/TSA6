@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #eaeaea;
+    background-image: url('images/image03.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 .overlay {
     position: fixed;
     top: 0;
@@ -190,6 +199,7 @@ img.same-size {
     max-width: 100%;
     border-radius: 15px;
     object-fit: contain;
+    color: #101010;
 }
 
 .boxed-section {
