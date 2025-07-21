@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-image: url(/image03.jpg);
+    background-image: url(image/image03.jpg);
     background-size: cover;
     color: #eaeaea;
 }
